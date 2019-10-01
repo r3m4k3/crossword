@@ -59,7 +59,6 @@ body{
   height: 1.25em;
   line-height: 1.25em;
   vertical-align: middle;
-  border: 1px solid #000;
   
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -70,6 +69,7 @@ body{
 }
 .letter{
   background-color: rgb(255,255,255);
+  border: 1px solid #000;
    
   -webkit-touch-callout: text;
   -webkit-user-select: text;
