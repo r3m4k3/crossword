@@ -50,7 +50,6 @@ body{
 
 .crossword{
   display: block;  
-  background-color: rgb(32,32,32);  
 }
 .square{  
   margin: 0 1px 1px 0;
@@ -60,6 +59,7 @@ body{
   height: 1.25em;
   line-height: 1.25em;
   vertical-align: middle;
+  border: 1px solid #000;
   
   -webkit-touch-callout: none;
   -webkit-user-select: none;
