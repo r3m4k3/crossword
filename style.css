@@ -59,6 +59,7 @@ body{
   height: 1.25em;
   line-height: 1.25em;
   vertical-align: middle;
+  border: 1px solid #fff;
   
   -webkit-touch-callout: none;
   -webkit-user-select: none;
